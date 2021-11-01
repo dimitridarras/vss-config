@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Black Ryan",
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "open-in-browser.default": "chrome",
+    "diffEditor.renderSideBySide": false,
+    "editor.renderWhitespace": "none",
+    "breadcrumbs.enabled": false,
+    "git.suggestSmartCommit": false,
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "afterDelay"
+}
