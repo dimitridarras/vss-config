@@ -7,6 +7,6 @@ Your configuraiton on Mac OS X is in:
 
 ~/Library/Application Support/Code/User/
 
-Your extensions are in:
+Your extensions on Linux and Mac OS X are in:
 
-~/.vscode/extensions on Linux and Mac OS X
+~/.vscode/extensions 
